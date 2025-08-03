@@ -25,3 +25,5 @@ You can host this project on GitHub Pages or any static server for live preview.
 ---
 
 Enjoy building! ✨
+
+> Note: Due to CORS restrictions, the OMDb API may not function properly when hosted via GitHub Pages. To preview the fully working version, download this file and open it locally in your browser.
