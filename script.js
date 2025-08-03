@@ -1,6 +1,6 @@
 // script.js
 
-const API_KEY = 'YOUR_OMDB_API_KEY'; // Replace with your OMDb API key
+const API_KEY = 'aba503e5'; // Replace with your OMDb API key
 const searchButton = document.getElementById('searchButton');
 const searchInput = document.getElementById('searchInput');
 const resultsDiv = document.getElementById('results');
